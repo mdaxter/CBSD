@@ -1,4 +1,4 @@
-module CCurl [system] {
+module CBSD [system] {
 	header "bsd_bridging.h"
 	link "bsd"
 	export *
