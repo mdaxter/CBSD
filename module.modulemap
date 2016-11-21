@@ -1,0 +1,5 @@
+module CCurl [system] {
+	header "bsd_bridging.h"
+	link "bsd"
+	export *
+}
